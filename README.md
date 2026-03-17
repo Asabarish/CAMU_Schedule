@@ -125,7 +125,7 @@ camu.html
 
     <tr class="bg-success">
         <th>12 TO 1</th>
-        <td colspan="6">LUNCH BREAK</td> 
+        <td COLSPAN=6 ALIGN="CENTER">LUNCH</td>
     </tr>
 
     <tr>
